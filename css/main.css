@@ -1,3 +1,9 @@
+body{
+    background-color: aqua;
+}
 p{
-    background-color: aquamarine;
+    color: black;
+}
+h2{
+    font-size: 50px;
 }
